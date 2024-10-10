@@ -1,8 +1,8 @@
 # 4ACTIVE Manual Testing Project
 
-This repository showcases my manual testing project for the **4ACTIVE** gym class management web application. It includes detailed documentation of software requirements, test cases, defect reports, and testing protocols.
+This repository showcases my manual testing project for the **4ACTIVE** gym class management web application. It includes detailed documentation of software requirements, test cases, defect reports, and testing protocols that I have developed. 
 
-The 4ACTIVE gym class management web application is a real platform accessible at 4-active.pl. As an active member of this gym, I frequently use the website, which motivated me to use it as a template for my manual testing project. This choice allows you to easily access the site and follow along with my testing examples.
+The 4ACTIVE gym class management web application is a real platform accessible at [4-active.pl](https://4-active.pl/). As an active member of this gym, I frequently use the website, which motivated me to use it as a template for my manual testing project. This choice allows you to easily access the site and follow along with my testing examples.
 
 For this project, I focused on two main features:
 
