@@ -2,13 +2,13 @@
 
 This repository showcases my manual testing project for the **4ACTIVE** gym class management web application. It includes detailed documentation of software requirements, test cases, defect reports, and testing protocols.
 
-The 4ACTIVE gym class management web application is a real platform accessible at 4-active.pl. As an active member of this gym, I frequently use the website, which motivated me to use it as a template for my manual testing project. This choice allows potential employers and collaborators to easily access the site and follow along with my testing examples.
+The 4ACTIVE gym class management web application is a real platform accessible at 4-active.pl. As an active member of this gym, I frequently use the website, which motivated me to use it as a template for my manual testing project. This choice allows you to easily access the site and follow along with my testing examples.
 
 For this project, I focused on two main features:
 
-Admin Class Management: This feature allows gym administrators to create, modify, and delete classes offered at the gym. Admins can also manage class schedules and capacities, ensuring that members have access to a variety of fitness options.
+- **Admin Class Management:** This feature allows gym administrators to create, modify, and delete classes offered at the gym. Admins can also manage class schedules and capacities, ensuring that members have access to a variety of fitness options.
 
-Member Class Management: This functionality enables members to view available classes, sign up for sessions, and manage their bookings. Members can also unsubscribe from classes they no longer wish to attend.
+- **Member Class Management:** This functionality enables members to view available classes, sign up for sessions, and manage their bookings. Members can also unsubscribe from classes they no longer wish to attend.
 
 ### Testing
 
