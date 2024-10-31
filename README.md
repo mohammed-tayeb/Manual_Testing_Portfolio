@@ -17,7 +17,7 @@ The application underwent comprehensive testing to ensure functionality. Key tes
 - **Class Sign-Up Functionality**: Confirmed that registered users can sign up for available classes.
 - **Unsubscribe Functionality**: Identified a failure in the confirmation pop-up after class unsubscription.
 
-For a complete list of test cases, please refer to the [Test Protocol Document](https://github.com/mohammed-tayeb/Manual_Testing_Portfolio/blob/main/TestReport.md) (available in this repository). For more details on the project requirements and specifications, kindly check the [Confluence Document](link-to-confluence) (available in this repository).  You can also view the Defect Report [Defect Reportl Document](https://github.com/mohammed-tayeb/Manual_Testing_Portfolio/blob/main/Defectreport.md) (available in this repository)
+For a complete list of test cases, please refer to the [Test Protocol Document](https://github.com/mohammed-tayeb/Manual_Testing_Portfolio/blob/main/TestReport.md) (available in this repository). For more details on the project requirements and specifications, kindly check the [Confluence Document](link-to-confluence) (available in this repository).  You can also view the Defect Report here [Defect Report Document](https://github.com/mohammed-tayeb/Manual_Testing_Portfolio/blob/main/Defectreport.md) (available in this repository)
 
 ### Note
 The Confluence, Test Protocol, and Defect Report documents are included in this repository for reference.
