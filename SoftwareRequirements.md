@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The 4active.pl website focuses on key functionalities related to gym class management. This portfolio showcases my ability to write clear and concise requirements documentation, highlighting my understanding of the necessary features for an effective user experience. While the scope is not exhaustive, it demonstrates my skills in identifying essential components and articulating them in a structured format.
+The [4-active.pl](https://4-active.pl/grafik-zajec/fitness) website focuses on key functionalities related to gym class management. This portfolio showcases my ability to write clear and concise requirements documentation, highlighting my understanding of the necessary features for an effective user experience. While the scope is not exhaustive, it demonstrates my skills in identifying essential components and articulating them in a structured format.
 
 ## Objective
 
