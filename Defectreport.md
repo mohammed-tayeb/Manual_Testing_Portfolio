@@ -6,7 +6,7 @@
 
 This section contains a detailed defect report for three identified bugs
 during test execution demonstrating to show how to capture a bug detail
-if there were any on the 4active.pl website. Each bug report includes
+if there were any on the [4-active.pl](https://4-active.pl/grafik-zajec/fitness) website. Each bug report includes
 the following information:
 
 - **Overview**: A brief description of the bug.
