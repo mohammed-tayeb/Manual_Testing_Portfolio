@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This test report documents the testing activities conducted on the**4active.pl** website, specifically focusing on the features outlined in the Software Requirements Specification (SRS). The scope is limited to functionalities defined in the SRS rather than all the functionalities that 4active website offers. The testing approach within this document includes both **Gherkin-based scenarios** and **manual test steps** to demonstrate my familiarity with both methods. Additionally, a few test cases were intentionally marked
+This test report documents the testing activities conducted on the [4-active.pl](https://4-active.pl/grafik-zajec/fitness) website, specifically focusing on the features outlined in the Software Requirements Specification (SRS). The scope is limited to functionalities defined in the SRS rather than all the functionalities that 4active website offers. The testing approach within this document includes both **Gherkin-based scenarios** and **manual test steps** to demonstrate my familiarity with both methods. Additionally, a few test cases were intentionally marked
 as "Failed" to show the reporting process when defects are identified. As a result of these failed test cases, a separate **Defect Report** was created with the bugs discovered during testing. Please note that these bugs were created only for the purpose of this portfolio and do notreflect any actual issues on the 4active website.
 
 
